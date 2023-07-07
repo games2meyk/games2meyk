@@ -13,8 +13,8 @@ We strive for collaborative learning and passion for creatiing unique ideas.
 
  [@games2meyk](https://www.github.com/games2meyk)
 
-- [@gaienv](https://www.github.com/jevelagrisola)
-- [@jevelagrisola](https://www.github.com/gaienv)
+- [@gaienv](https://www.github.com/gaienv)
+- [@jevelagrisola](https://www.github.com/jevelagrisola)
 - [@ZahmBalaDouShi](https://www.github.com/ZahmBalaDouShi)
 - [@games2meyk](https://www.github.com/games2meyk)
 
