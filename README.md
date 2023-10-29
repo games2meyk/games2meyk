@@ -16,7 +16,7 @@ We strive for collaborative learning and passion for creatiing unique ideas.
 - [@gaienv](https://www.github.com/gaienv)
 - [@jevelagrisola](https://www.github.com/jevelagrisola)
 - [@ZahmBalaDouShi](https://www.github.com/ZahmBalaDouShi)
-- [@games2meyk](https://www.github.com/games2meyk)
+- [@thedeanyuri](https://www.github.com/thedeanyuri)
 
 
 
